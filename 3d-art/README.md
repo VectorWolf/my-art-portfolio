@@ -15,8 +15,11 @@ This is a dog I created with polymodeling..
 ..which I further refined via sculpting into a Dobermann..
 ![dog2](dog2-sculpt.jpg)
 
-..and finally I retopologized and texturized the model.
+..and finally I retopologized and texturized the model..
 ![dog3](dog3-retopo-texturing.jpg)
+
+..and added a hair particle system to achieve a dog-like look.
+![dog4](dog3-particle.png)
 
 I made this sword via polymodeling with a light subsurf-modifier applied. All the textures on it are procedurally generated with node-trees I constructed.
 ![sword](sword.jpg)
